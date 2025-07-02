@@ -1,2 +1,2 @@
-# segundo-repositorio
-Esto es mi segundo repositorio haciendo pruebas si paso o no.
+# mi-primer-repositorio
+Esto es mi primer repositorio haciendo pruebas si paso o no.
